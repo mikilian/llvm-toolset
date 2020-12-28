@@ -2,8 +2,6 @@
 
 Provides compiled LLVM (>= 11.0.0) toolset, CMake and make for [Alpine Linux](https://alpinelinux.org/).
 
-[![Docker Automated build](https://img.shields.io/docker/automated/michaelkilian/llvm-toolset.svg)](https://hub.docker.com/r/michaelkilian/llvm-toolset/) [![Docker Build Status](https://img.shields.io/docker/build/michaelkilian/llvm-toolset.svg)](https://hub.docker.com/r/michaelkilian/llvm-toolset/)
-
 ## Pre installed packages
 
 This [image](https://hub.docker.com/r/michaelkilian/llvm-toolset/) uses Alpine Linux 3.12 and comes with the following pre installed packages.
